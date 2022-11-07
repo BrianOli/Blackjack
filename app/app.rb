@@ -89,6 +89,7 @@ loop do
                     
                     if(opPA != 1)
                         continueGame == 0
+                        break
                     end
 
                 end
