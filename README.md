@@ -1,6 +1,6 @@
 # Blackjack
 
-## Resumo
+## Descrição do Projeto
 Este é um jogo de cartas realizado para treinar conceitos da linguagem de programação Ruby e POO
 
 ## Imagens
